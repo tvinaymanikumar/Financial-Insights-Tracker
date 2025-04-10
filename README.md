@@ -86,9 +86,5 @@ Start the project by opening index.html directly or using a local development se
 ## Outcome
 The Budget Management System provides users with a powerful, efficient, and user-friendly tool for managing their finances, staying within budget, and making smarter financial decisions.
 
----
-
-## Author
-Vinay Manikumar Telugu
 
 
