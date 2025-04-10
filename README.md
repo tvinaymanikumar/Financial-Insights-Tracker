@@ -1,4 +1,4 @@
-# Budget-Management-System
+# Financial Insights Tracker
 
 ## Project Overview
 Engineered a robust web application that streamlined budgeting, expense monitoring, and financial tracking, empowering users to access real-time financial insights and boosted decision-making efficiency by 70%.
@@ -68,12 +68,12 @@ This project is a web-based Budget Management System designed to help users effi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/budget-management-system.git
+git clone https://github.com/your-repo/Financial-Insights-Tracker.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd budget-management-system
+cd Financial-Insights-Tracker
 ```
 
 3. Open `index.html` in your browser:
